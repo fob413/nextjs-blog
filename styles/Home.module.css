@@ -33,6 +33,18 @@
   text-align: center;
 }
 
+.subtitle a {
+  color: #0070f3;
+  text-decoration: none;
+  text-align: start;
+}
+
+.subtitle a:hover,
+.subtitle a:focus,
+.subtitle a:active {
+  text-decoration: underline;
+}
+
 .description {
   line-height: 1.5;
   font-size: 1.5rem;
